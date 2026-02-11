@@ -563,7 +563,11 @@ footer {
     top: 12px;
     right: 16px;
   }
-}
+  .modal-content p {
+    font-size: 15px;
+    line-height: 1;
+    margin-bottom: 10px;
+  }
 @media (max-width: 768px) {
   .order-form {
     padding: 0 10px;
@@ -602,5 +606,6 @@ footer {
 #quoteBtn:hover {
   background: #444;
 }
+
 
 
