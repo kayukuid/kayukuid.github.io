@@ -424,7 +424,7 @@ footer {
 
 .modal-content p {
     font-size: 15px;
-    line-height: 1.2;
+    line-height: 1.5;
     margin-bottom: 10px;
 }
 
@@ -602,4 +602,5 @@ footer {
 #quoteBtn:hover {
   background: #444;
 }
+
 
